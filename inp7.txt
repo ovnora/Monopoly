@@ -1,0 +1,14 @@
+6
+szolg 2000
+szer 300
+ing
+ing
+szolg 12000
+szolg 9000
+4
+Oszkár ov
+Otto ov
+Marcell moho
+Tihamer takt
+1 2 2 3
+5 3

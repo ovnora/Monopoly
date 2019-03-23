@@ -1,0 +1,9 @@
+3
+szolg 12000
+ing
+szer 30000
+2
+Taksony takt
+Olga ov
+1 2
+2 2

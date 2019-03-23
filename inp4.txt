@@ -1,0 +1,13 @@
+5
+ing
+szer 5000
+ing
+szolg 30
+szer 1000
+3
+Matyi moho
+Tomi takt
+Orsi ov
+4 1 5
+1 2 5
+4 3
