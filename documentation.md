@@ -95,3 +95,51 @@ Algoritmus: (beolvasott kockadobásokra való felkészítés nélkül)
 ![jatssz_struktogram](img/jatssz.png)
 ## Terv
 ![osztálydiagram](img/osztalydiag.png)
+
+## Tesztelési terv
+<ul>
+<li>A) Metódusok szerint  
+  <ul> 
+    <li>Szerencse  
+      <ul>
+         <li>1. Mohó, taktikus (ugyanaz)</li>
+         <li>2. Óvatos</li>
+      </ul>
+    </li>
+    <li>Szolgaltatas
+      <ul>
+        <li>3.	Mohó, taktikus</li>
+        <li>4.	Óvatos</li>
+      </ul>
+    </li>
+    <li>Ingatlan
+      <ul>
+        <li>5.	Fizetni kell</li>
+        <li>6.	Mohó
+          <ul>
+            <li>a.	Telekvásárlás</li>
+            <li>b.	Házépítés</li>
+          </ul></li>
+        <li>7.	Taktikus
+          <ul>
+            <li>a.	Vásárol (házat)</li>
+            <li>b.	Nem vásárol (telket)</li>
+          </ul></li>
+        <li>8.	Óvatos
+          <ul>
+            <li>a.	Vásárol (telket)</li>
+            <li>b.	Nem vásárol (házat)</li>
+          </ul></li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li>B)	Kiesés szerint
+  <ul>
+    <li>9.	Kiesett ingatlanának megvásárlása</li>
+    <li>10.	 Kiesések azonos körben</li>
+    <li>11.	Kiesett újra „lép”</li>
+  </ul>
+</li>
+</ul>
+
